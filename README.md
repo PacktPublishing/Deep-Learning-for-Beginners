@@ -1,6 +1,6 @@
 # Deep Learning for Beginners
 
-<a href="https://www.packtpub.com/product/deep-learning-for-beginners/9781838640859?utm_source=github&utm_medium=repository&utm_campaign=9781838640859"><img src="https://static.packt-cdn.com/products/9781838640859/cover/smaller" alt="Deep Learning for Beginners" height="270px" align="right"></a>
+<a href="https://www.packtpub.com/product/deep-learning-for-beginners/9781838640859?utm_source=github&utm_medium=repository&utm_campaign=9781838640859"><img src="https://static.packt-cdn.com/products/9781838640859/cover/smaller" alt="Deep Learning for Beginners" height="260px" align="right"></a>
 
 This is the code repository for [Deep Learning for Beginners](https://www.packtpub.com/product/deep-learning-for-beginners/9781838640859?utm_source=github&utm_medium=repository&utm_campaign=9781838640859), published by Packt.
 
