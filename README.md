@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B14169?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Deep Learning for Beginners
 
 <a href="https://www.packtpub.com/product/deep-learning-for-beginners/9781838640859?utm_source=github&utm_medium=repository&utm_campaign=9781838640859"><img src="https://static.packt-cdn.com/products/9781838640859/cover/smaller" alt="Deep Learning for Beginners" height="260px" align="right"></a>
