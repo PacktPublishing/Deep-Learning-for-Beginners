@@ -63,3 +63,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Dr. Pablo Rivas**
 is an assistant professor of computer science at Baylor University in Texas. He worked in industry for a decade as a software engineer before becoming an academic. He is a senior member of the IEEE, ACM, and SIAM. He was formerly at NASA Goddard Space Flight Center performing research. He is an ally of women in technology, a deep learning evangelist, machine learning ethicist, and a proponent of the democratization of machine learning and artificial intelligence in general. He teaches machine learning and deep learning. Dr. Rivas is a published author and all his papers are related to machine learning, computer vision, and machine learning ethics. Dr. Rivas prefers Vim to Emacs and spaces to tabs.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838640859">https://packt.link/free-ebook/9781838640859 </a> </p>
